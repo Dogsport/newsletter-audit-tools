@@ -379,8 +379,3 @@ Possible future additions:
 - Multi-store support
 - Campaign eligibility scoring
 
----
-
-# License
-
-Internal Use Only
